@@ -1,0 +1,31 @@
+#option-cards {
+    margin-top: 50px;
+}
+
+.card {
+    text-align: center;
+}
+
+.customer-transfer {
+    text-align: center;
+}
+
+.customer-transfer-btn {
+    margin: 30px 0;
+}
+
+.transferHeading {
+    text-align: center;
+}
+
+.transfer-form {
+    margin: 0 15%;
+}
+
+.transfer-form-comp {
+    margin: 10px 0;
+}
+
+.transactionHeading {
+    text-align: center;
+}
